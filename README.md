@@ -1,6 +1,6 @@
 VTM-16.2-Optimization-02-DTs-Implementation-TZS
 
-VTM reference software for VVC
+VTM 16.2 - Ramiro - Otimização Inter-Quadros - Implementação de DTs no TZS
 ==============================
 
 This software package is the reference software for Rec. ITU-T H.266 | ISO/IEC 23090-3 Versatile Video Coding (VVC). The reference software includes both encoder and decoder functionality.
